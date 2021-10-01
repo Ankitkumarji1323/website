@@ -34,12 +34,12 @@ img{
 #blurb {
     margin-top: 25px;
     background-color: rgba(28, 28, 28, .9);
-    margin-bottom: 50px;
+    margin-bottom: 51px;
     width: 100%
 }
 
 a:hover, a:active{
-    background-color: white;
+    background-color: ghostwhite;
     color: black;
 }
 
@@ -105,7 +105,7 @@ strong{
     }
 
     nav li:hover{
-        background-color: white;
+        background-color: ghostwhite;
         color: black;
     }
 
